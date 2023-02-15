@@ -1,7 +1,7 @@
 Hi 👋 My name is Bouzidi Med Ali
 ================================
 
-Junior Backend Developer
+Junior Full Stack Developer
 ------------------------
 
 *   🌍  I'm based in Tunisia
