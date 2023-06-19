@@ -40,7 +40,7 @@ Junior Full Stack Developer
 <p align="left">
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="./assets/images/django-colored.svg" width="36" height="36" alt="Django" /></a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="./assets/images/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="./assets/images/laravel-colored.svg" width="36" height="36" alt="Spring Boot" /></a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="./assets/images/spring-boot.svg" width="36" height="36" alt="Spring Boot" /></a>
 </p>
 
 ### Databases
