@@ -6,7 +6,8 @@
 * 🌍 Based in Tunisia
 * 🤝 Open to collaborating on Backend related, Web/api scraping, Python/JS related.
 
-<div>
-  <img align="left" width="48%" src="https://github-readme-stats-sigma-eight-43.vercel.app/api/top-langs/?username=MedAliBouzidi&layout=compact" alt="languages">
-  <img align="left" width="48%" src="https://github-readme-stats-sigma-eight-43.vercel.app/api?username=MedAliBouzidi&hide=contribs,issues&show_icons=true&rank_icon=github&theme=radical" alt="stats">
-</div>
+### Github Stats
+  <img src="https://github-readme-stats-sigma-eight-43.vercel.app/api?username=MedAliBouzidi&hide=contribs,issues&show_icons=true&rank_icon=github&theme=radical" alt="stats">
+
+### Most Used Languages
+  <img src="https://github-readme-stats-sigma-eight-43.vercel.app/api/top-langs/?username=MedAliBouzidi&layout=compact" alt="languages">
