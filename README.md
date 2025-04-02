@@ -6,7 +6,7 @@
 * 🌍 Based in Tunisia
 * 🤝 Open to collaborating on Backend related, Web/api scraping, Python/JS related.
 
- Check my [Portfolio](https://bouzidi-med-ali.tech)
+ Check my [Portfolio](https://medalibouzidi.github.io/)
 
 <img src="https://github-readme-stats-sigma-eight-43.vercel.app/api?username=MedAliBouzidi&hide=contribs,issues&show_icons=true&rank_icon=github&theme=radical" alt="stats">
 
